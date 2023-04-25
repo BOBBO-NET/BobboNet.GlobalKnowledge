@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet
+namespace BobboNet.GlobalKnowledge
 {
     [System.Serializable]
     public class CompoundGlobalKnowledgeCondition

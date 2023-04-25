@@ -1,4 +1,4 @@
-﻿namespace BobboNet
+﻿namespace BobboNet.GlobalKnowledge
 {
     [System.Serializable]
     public class GlobalKnowledgeCondition
