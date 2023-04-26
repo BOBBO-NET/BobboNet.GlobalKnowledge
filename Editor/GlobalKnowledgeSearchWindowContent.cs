@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using BobboNet.Editor;
+using BobboNet.Knowledge;
 
-namespace BobboNet
+namespace BobboNet.Editor.Knowledge
 {
     public class GlobalKnowledgeSearchWindowContent : SearchWindowContent
     {

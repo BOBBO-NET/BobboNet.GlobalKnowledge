@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BobboNet.GlobalKnowledge
+namespace BobboNet.Knowledge
 {
     public class GlobalKnowledgeMonobehaviour : MonoBehaviour
     {

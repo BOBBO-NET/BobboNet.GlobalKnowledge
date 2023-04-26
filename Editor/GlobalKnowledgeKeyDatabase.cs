@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using BobboNet;
+using BobboNet.Knowledge;
 
-namespace BobboNet
+namespace BobboNet.Editor.Knowledge
 {
     public static class GlobalKnowledgeKeyDatabase
     {

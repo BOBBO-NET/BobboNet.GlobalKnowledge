@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
+using BobboNet.Knowledge;
 
-namespace BobboNet
+namespace BobboNet.Editor.Knowledge
 {
     [CustomPropertyDrawer(typeof(GlobalKnowledgeCondition))]
     public class GlobalKnowledgeConditionDrawer : PropertyDrawer

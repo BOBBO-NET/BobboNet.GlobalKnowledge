@@ -4,8 +4,9 @@ using UnityEngine;
 using UnityEditor;
 using UnityEngine.UIElements;
 using UnityEditor.UIElements;
+using BobboNet.Knowledge;
 
-namespace BobboNet
+namespace BobboNet.Editor.Knowledge
 {
     [CustomPropertyDrawer(typeof(GlobalKnowledgeValue))]
     public class GlobalKnowledgeValueDrawer : PropertyDrawer
