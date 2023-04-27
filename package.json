@@ -7,7 +7,7 @@
     "url": "https://bobbo.net"
   },
   "dependencies": {
-    "net.bobbo.editor-search-window": "0.0.1",
+    "net.bobbo.editor.search-window": "0.0.1",
     "net.bobbo.json-data": "0.0.1"
   }
 }
